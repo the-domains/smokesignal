@@ -1,0 +1,28 @@
+name: SmokeSignal
+favicon: null
+layout_spectrum: 0.9470186536200345
+typography_spectrum: 0.9020405914634466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2149176129605621
+  lightness: 0.20665411045774817
+  saturation: 0.1713660650420934
+  rhythmicContrast: 0.2494865208864212
+purpose: []
